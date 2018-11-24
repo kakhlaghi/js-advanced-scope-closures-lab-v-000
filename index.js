@@ -22,7 +22,7 @@ function produceTipCalculator(tipDec){
 
 function createDriver(){
   let driverId = 0;
-  return function(name){
+  return class(name){
 
   }
 }
