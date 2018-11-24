@@ -13,7 +13,7 @@ function produceDrivingRange(blockRange){
   }
 }
 
-function produceTipCalculator(tip){
+function produceTipCalculator(tipDec){
   return function(){
 
   }
